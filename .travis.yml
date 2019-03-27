@@ -14,6 +14,6 @@ matrix:
 
       script:  
 
-        - gcc -o new new.c 
+        - gcc -o file file.c 
 
-        - ./new
+        - ./file
